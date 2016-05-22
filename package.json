@@ -1,0 +1,19 @@
+{
+  "name": "slackinfo",
+  "version": "1.0.0",
+  "description": "Provides analytics and statistics on Slack users and Slack usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardcoffey/slackinfo.git"
+  },
+  "author": " <Richard Coffey richardcoffey32@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/richardcoffey/slackinfo/issues"
+  },
+  "homepage": "https://github.com/richardcoffey/slackinfo#readme"
+}
