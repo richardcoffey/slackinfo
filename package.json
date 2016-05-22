@@ -4,7 +4,7 @@
   "description": "Provides analytics and statistics on Slack users and Slack usage.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "node_modules/.bin/eslint ./**/*.js --"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/richardcoffey/slackinfo/issues"
   },
-  "homepage": "https://github.com/richardcoffey/slackinfo#readme"
+  "homepage": "https://github.com/richardcoffey/slackinfo#readme",
+  "devDependencies": {
+    "eslint": "^2.10.2"
+  }
 }
